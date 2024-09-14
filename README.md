@@ -1,6 +1,6 @@
 ## Hello World! 👋 I'm Miles Royer!
 
-- 🔭 This past summer, I was working as a **Software Engineering Intern** at Johnson Controls, developing and maintaining Python and C++ applications for the **Connected Chillers** project, enhancing IoT capabilities in smart building solutions.
+- 🔭 This past summer, I was working as a **Software Engineering Intern** at **Johnson Controls**, developing and maintaining Python and C++ applications for the **Connected Chillers** project, enhancing IoT capabilities in smart building solutions.
   
 - 🌱 I’m currently learning more about **Game Development** and performance monitoring using **OpenGL**, and continually refining my skills in **3D graphics** and **C++**.
 
