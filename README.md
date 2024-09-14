@@ -13,7 +13,7 @@
 
 - 📫 How to reach me:
   - **Email:** mainmilesaroyer@gmail.com
-  - **LinkedIn:** [linkedin.com/in/milesroyer](https://linkedin.com/in/milesroyer)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/milesroyer/)
   - **GitHub:** [github.com/MilesRoyerr](https://github.com/MilesRoyerr)
   - **Twitter:** [https://x.com/miles_royeet]
 
