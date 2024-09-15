@@ -23,6 +23,6 @@
 - ⚡ Fun fact: I'm currently working on building a Minecraft-like clone using C++ and OpenGL!
 
 ### Technical Skills:
-- **Languages:** C++, Java, Python, C#, JavaScript
+- **Languages:** C++ https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white , Java, Python, C#, JavaScript
 - **Technologies:** Unity, Grafana, OpenGL, Ubuntu, Wix, WordPress, GitHub, GoDaddy
 - **Languages:** Portuguese (Native/Bilingual) , Englis
