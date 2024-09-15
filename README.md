@@ -1,6 +1,6 @@
 ## Hello World! 👋 I'm Miles Royer!
 
-- 🇺🇸🇧🇷I was born in Indiana, moved overseas to Brazil, and now live in Wisconsin.!
+- 🇺🇸🇧🇷 I was born in Indiana, moved overseas to Brazil, and now live in Wisconsin.!
   
 - 🔭 This past summer, I was working as a **Software Engineering Intern** at **Johnson Controls**, developing and maintaining Python and C++ applications for the **Connected Chillers** project, enhancing IoT capabilities in smart building solutions.
   
