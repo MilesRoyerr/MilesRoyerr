@@ -4,9 +4,9 @@
   
 - 🌱 I’m currently learning more about **Game Development** and performance monitoring using **OpenGL**, and continually refining my skills in **3D graphics** and **C++**.
 
-- 📚 I'm a junior at the **University of Wisconsin-Whitewater** where I'm earning my Bachelor of Arts in **Computer Science**, with a **minor in Media and Game Development Technology** with an expected graduation semester of **Spring 2026**.
+- 📚 I'm a junior at the **University of Wisconsin-Whitewater** where I'm earning my Bachelor of Arts in **Computer Science**, with a **Minor in Media and Game Development Technology** with an expected graduation semester of **Spring 2026**.
   
-- 🎓  This Spring, I've earned my **Associates Degree** from the **University of Wisconsin- Milwaukee** in **General Studies with an emphasis in Computer Science** and a **minor in Honors Portuguese**. 
+- 🎓  This past Spring, I've earned my **Associates Degree** from the **University of Wisconsin- Milwaukee** in **General Studies with an emphasis in Computer Science** and a **Minor in Honors Portuguese**. 
 
 - 👯 I’m looking to collaborate on **game development projects** and open-source initiatives, especially those that involve **C++** and **OpenGL**.
 
