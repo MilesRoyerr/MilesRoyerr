@@ -22,7 +22,7 @@
 
 - 😄 Pronouns: He/Him
 
-- ⚡ Fun fact: I'm currently working on building a Minecraft-like clone using C++ and OpenGL!
+- ⚡ Fun fact: I'm currently working on building a Minecraft-like clone using C++ and OpenGL! (Currently, it's in a private repository but will open it up when it's finished!)
 
 
 ## Programming Languages
