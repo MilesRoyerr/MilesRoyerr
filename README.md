@@ -1,7 +1,7 @@
 ## Hello World! 👋 I'm Miles Royer! 
   
 - 🔭 This past summer, I was working as a **Software Engineering Intern** at **Johnson Controls**, developing and maintaining Python and C++ applications for the **Connected Chillers** project, enhancing IoT capabilities in smart building solutions.
-  
+   
 - 🌱 I’m currently deepening my understanding of terrain generation and **3D game development** using **OpenGL** and **C++**, while focusing on optimizing performance and enhancing my skills in **real-time graphics**.
  
 - 📚 I'm a junior at the **University of Wisconsin-Whitewater** where I'm earning my Bachelor of Arts in **Computer Science**, with a **Minor in Media and Game Development Technology** with an expected graduation semester of **Spring 2026**.
