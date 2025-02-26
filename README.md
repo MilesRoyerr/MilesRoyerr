@@ -22,7 +22,6 @@
  [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@milesroyeet)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/miles_royeet)
 
-- 😄 Pronouns: He/Him
 
 - ⚡ Fun fact: I'm currently working on building a Minecraft-like clone using C++ and OpenGL! (Currently, it's in a private repository but will open it up when it's finished!)
 
