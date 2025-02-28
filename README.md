@@ -1,21 +1,21 @@
 ## Hello World! 👋 I'm Miles Royer! 
 
-🏢 This upcoming summer, I’ll be joining **Northwestern Mutual** as a **Technical Product Management Intern**, where I'll gain hands-on experience in **product development**, data-driven decision-making, and **cross-functional collaboration.**
+ This upcoming summer, I’ll be joining **Northwestern Mutual** as a **Technical Product Management Intern**, where I'll gain hands-on experience in **product development**, data-driven decision-making, and **cross-functional collaboration.**
 
-- 🔭 Last summer, I was working as a **Software Engineering Intern** at **Johnson Controls**, developing and maintaining Python and C++ applications for the **Smart Connected Chillers** team, enhancing IoT capabilities in smart building solutions.
+-  Last summer, I was working as a **Software Engineering Intern** at **Johnson Controls**, developing and maintaining Python and C++ applications for the **Smart Connected Chillers** team, enhancing IoT capabilities in smart building solutions.
   
-- 🌱 I’m currently deepening my understanding of terrain generation and **3D game development** using **OpenGL** and **C++**, while focusing on optimizing performance and enhancing my skills in **real-time graphics**.
+-  I’m currently deepening my understanding of terrain generation and **3D game development** using **OpenGL** and **C++**, while focusing on optimizing performance and enhancing my skills in **real-time graphics**.
  
-- 📚 I'm a junior at the **University of Wisconsin-Whitewater** where I'm earning my Bachelor of Arts in **Computer Science**, with a **Minor in Media and Game Development Technology** with an expected graduation semester of **December 2026**.
+-  I'm a junior at the **University of Wisconsin-Whitewater** where I'm earning my Bachelor of Arts in **Computer Science**, with a **Minor in Media and Game Development Technology** with an expected graduation semester of **December 2026**.
 
-- 🎓  This past Spring, I've earned my **Associates Degree** from the **University of Wisconsin- Milwaukee** in **General Studies with an emphasis in Computer Science** and a **Minor in Portuguese**. 
+-   This past Spring, I've earned my **Associates Degree** from the **University of Wisconsin- Milwaukee** in **General Studies with an emphasis in Computer Science** and a **Minor in Portuguese**. 
 
-- 👯 I’m looking to collaborate on **game development projects** and open-source initiatives, especially those that involve **C++** and **OpenGL**.
+-  I’m looking to collaborate on **game development projects** and open-source initiatives, especially those that involve **C++** and **OpenGL**.
 
-- 💬 Ask me about **software engineering**, **game development**, or my leadership experience as the **ACM Chapter President** at the University of Wisconsin-Whitewater.
+-  Ask me about **software engineering**, **game development**, or my leadership experience as the **ACM Chapter President** at the University of Wisconsin-Whitewater.
   
 
-- 📫 The Best ways to reach me:
+-  The Best ways to reach me:
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/milesroyer/)
   [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mainmilesaroyer@gmail.com)
