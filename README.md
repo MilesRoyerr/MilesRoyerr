@@ -1,4 +1,4 @@
-## Hello World! 👋 I'm Miles Royer! 
+## Howdy! 👋 I'm Miles Royer! 
 
  This upcoming summer, I’ll be joining **Northwestern Mutual** as a **Technical Product Management Intern**, where I'll gain hands-on experience in **product development**, data-driven decision-making, and **cross-functional collaboration.**
 
@@ -33,4 +33,6 @@
 ## Languages
 ![Brazilian Portuguese](https://img.shields.io/badge/Brazilian_Portuguese-009739?style=for-the-badge&logo=brazil&logoColor=white) 
 ![English](https://img.shields.io/badge/American_English-0072CE?style=for-the-badge&logo=usa&logoColor=white)
+
+
 
