@@ -1,6 +1,6 @@
 ## Howdy! 👋 I'm Miles Royer! 
 
- This upcoming summer, I’ll be joining **Northwestern Mutual** as a **Technical Product Management Intern**, where I'll gain hands-on experience in **product development**, data-driven decision-making, and **cross-functional collaboration.**
+- This upcoming summer, I’ll be joining **Northwestern Mutual** as a **Technical Product Management Intern**, where I'll gain hands-on experience in **product development**, data-driven decision-making, and **cross-functional collaboration.**
 
 -  Last summer, I was working as a **Software Engineering Intern** at **Johnson Controls**, developing and maintaining Python and C++ applications for the **Smart Connected Chillers** team, enhancing IoT capabilities in smart building solutions.
   
