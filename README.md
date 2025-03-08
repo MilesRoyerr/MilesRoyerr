@@ -10,7 +10,7 @@
 
 -   This past Spring, I've earned my **Associates Degree** from the **University of Wisconsin- Milwaukee** in **General Studies with an emphasis in Computer Science** and a **Minor in Portuguese**. 
 
--  I’m looking to collaborate on **game development projects** and open-source initiatives, especially those that involve **C++** and **OpenGL**.
+-  I’m looking to collaborate on **game development projects** and open-source initiatives, especially those that involve **C++** and **Unreal Engine**.
 
 -  Ask me about **software engineering**, **game development**, or my leadership experience as the **ACM Chapter President** at the University of Wisconsin-Whitewater.
   
