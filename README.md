@@ -1,18 +1,16 @@
 ## Howdy! 👋 I'm Miles Royer! 
 
-- This upcoming summer, I’ll be joining **Northwestern Mutual** as a **Technical Product Management Intern**, where I'll gain hands-on experience in **product development**, data-driven decision-making, and **cross-functional collaboration.** 
+- This upcoming summer, I’ll be joining **Northwestern Mutual** as a **Technical Analyst Intern**, where I'll gain hands-on experience in **product development**, data-driven decision-making, and **cross-functional collaboration.** 
 
 -  Last summer, I was working as a **Software Engineering Intern** at **Johnson Controls**, developing and maintaining Python and C++ applications for the **Smart Connected Chillers** team, enhancing IoT capabilities in smart building solutions.
   
--  I’m currently deepening my understanding of terrain generation and **3D game development** using **Unreal Engine** and **C++**, while focusing on optimizing performance and enhancing my skills in **real-time graphics**.
+-  I’m currently deepening my understanding of Product Management and **Software Development** using **C++**, while focusing on optimizing performance and enhancing my skills in **Data Structures**.
  
--  I'm a junior at the **University of Wisconsin-Whitewater** where I'm earning my Bachelor of Arts in **Computer Science**, with a **Minor in Media and Game Development Technology** with an expected graduation semester of **May 2027**.
+-  I'm a junior at the **University of Wisconsin-Milwaukee** where I'm earning my Bachelor of Science in **Information Science & Technology**, with Minors in **Portuguese & Healthcare Administration** with an expected graduation semester of **May 2027**.
 
 -   This past Spring, I've earned my **Associates Degree** from the **University of Wisconsin- Milwaukee** in **General Studies with an emphasis in Computer Science** and a **Minor in Portuguese**. 
 
 -  I’m looking to collaborate on **game development projects** and open-source initiatives, especially those that involve **C++** and **Unreal Engine**.
-
--  Ask me about **software engineering**, **game development**, or my leadership experience as the **ACM Chapter President** at the University of Wisconsin-Whitewater.
   
 
 -  The Best ways to reach me:
