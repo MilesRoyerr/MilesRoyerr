@@ -4,7 +4,7 @@
 
 -  Last summer, I was working as a **Software Engineering Intern** at **Johnson Controls**, developing and maintaining Python and C++ applications for the **Smart Connected Chillers** team, enhancing IoT capabilities in smart building solutions.
   
--  I’m currently deepening my understanding of Product Management and **Software Development** using **C++**, while focusing on optimizing performance and enhancing my skills in **Data Structures**.
+-  I’m currently deepening my understanding of **Technical Product Management** and **Software Development** using **C++**, while focusing on optimizing performance and enhancing my skills in **Data Structures**.
  
 -  I'm a junior at the **University of Wisconsin-Milwaukee** where I'm earning my Bachelor of Science in **Information Science & Technology**, with Minors in **Portuguese & Healthcare Administration** with an expected graduation semester of **May 2027**.
 
