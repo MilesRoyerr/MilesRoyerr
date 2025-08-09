@@ -1,6 +1,6 @@
 ## Howdy! 👋 I'm Miles Royer! 
 
-- This past summer, Iinterned at **Northwestern Mutual** as a **Technical Product & Business Analyst Intern**, where I gained hands-on experience in **product development**, data-driven decision-making, and **cross-functional collaboration.** 
+- This past summer, I interned at **Northwestern Mutual** as a **Technical Product & Business Analyst Intern**, where I gained hands-on experience in **product development**, data-driven decision-making, and **cross-functional collaboration.** 
 
 -  Last summer, I was working as a **Software Engineering Intern** at **Johnson Controls**, developing and maintaining Python and C++ applications for the **Smart Connected Chillers** team, enhancing IoT capabilities in smart building solutions.
   
