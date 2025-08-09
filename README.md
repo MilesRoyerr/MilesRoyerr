@@ -6,7 +6,7 @@
   
 -  I’m currently deepening my understanding of **Technical Product Management** and **Software Development** using **C++**, while focusing on optimizing performance and enhancing my skills in **Data Structures**.
  
--  I'm a junior at the **University of Wisconsin-Milwaukee** where I'm earning my Bachelor of Science in **Information Science & Technology**, with Minors in **Portuguese & Healthcare Administration** with an expected graduation semester of **May 2027**.
+-  I'm a junior at the **University of Wisconsin-Milwaukee** where I'm earning my Bachelor of Science in **Information Science & Technology**, with a Minor in **Portuguese** and an Undergraduate Certificate in **Healthcare Informatics** with an expected graduation semester of **May 2027**.
 
 -   This past Spring, I've earned my **Associates Degree** from the **University of Wisconsin- Milwaukee** in **General Studies with an emphasis in Computer Science** and a **Minor in Portuguese**. 
 
