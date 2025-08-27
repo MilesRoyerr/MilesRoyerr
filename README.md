@@ -8,7 +8,7 @@
  
 -  I'm a junior at the **University of Wisconsin-Milwaukee** where I'm earning my Bachelor of Science in **Information Science & Technology**, with a Minor in **Portuguese** and an Undergraduate Certificate in **Healthcare Informatics** with an expected graduation semester of **May 2027**.
 
--   This past Spring, I've earned my **Associates Degree** from the **University of Wisconsin- Milwaukee** in **General Studies with an emphasis in Computer Science** and a **Minor in Portuguese**. 
+-   In the spring of 2024, I've earned my **Associates Degree** from the **University of Wisconsin- Milwaukee** in **General Studies with an emphasis in Computer Science** and a **Minor in Portuguese**. 
 
 -  I’m looking to collaborate on **game development projects** and open-source initiatives, especially those that involve **C++** and **Unreal Engine**.
   
