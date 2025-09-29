@@ -1,27 +1,28 @@
-## Howdy! 👋 I'm Miles Royer! 
+## Howdy! 👋 I'm Miles Royer!  
 
-- This past summer, I interned at **Northwestern Mutual** as a **Technical Product & Business Analyst Intern**, where I gained hands-on experience in **product development**, data-driven decision-making, and **cross-functional collaboration.** 
+- This past summer, I interned at **Northwestern Mutual** as a **Technical Product & Business Analyst Intern**, gaining hands-on experience in **product development**, **data-driven decision-making**, and **cross-functional collaboration**.  
 
--  Last summer, I was working as a **Software Engineering Intern** at **Johnson Controls**, developing and maintaining Python and C++ applications for the **Smart Connected Chillers** team, enhancing IoT capabilities in smart building solutions.
-  
--  I’m currently deepening my understanding of **Technical Product Management** and **Software Development** using **C++**, while focusing on optimizing performance and enhancing my skills in **Data Structures**.
- 
--  I'm a junior at the **University of Wisconsin-Milwaukee** where I'm earning my Bachelor of Science in **Information Science & Technology**, with a Minor in **Portuguese** and an Undergraduate Certificate in **Healthcare Informatics** with an expected graduation semester of **May 2027**.
+- Previously, I worked as a **Software Engineering Intern** at **Johnson Controls**, developing and maintaining **Python** and **C++** applications for the **Smart Connected Chillers** team, enhancing IoT capabilities in smart building solutions.  
 
--   In the spring of 2024, I've earned my **Associates Degree** from the **University of Wisconsin- Milwaukee** in **General Studies with an emphasis in Computer Science** and a **Minor in Portuguese**. 
+- Currently, I’m a **Project Assistant at the Connected Systems Institute (CSI)** at **UW–Milwaukee**, collaborating with industry partners like **Rockwell Automation** and **Microsoft** to organize hackathons, support project management initiatives, and gain hands-on experience in **technical program management**.  
 
--  I’m looking to collaborate on **game development projects** and open-source initiatives, especially those that involve **C++** and **Unreal Engine**.
-  
+- I’m deepening my expertise in **Technical Product & Program Management**, while continuing to strengthen my skills in **C++**, **performance optimization**, and **data structures**.  
 
--  The Best ways to reach me:
-  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/milesroyer/)
-  [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mainmilesaroyer@gmail.com)
- [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@milesroyeet)
+- I’m a junior at the **University of Wisconsin–Milwaukee**, pursuing a Bachelor of Science in **Information Science & Technology**, with a Minor in **Portuguese** and an Undergraduate Certificate in **Healthcare Informatics**, expecting to graduate in **May 2027**.  
+
+- I earned my **Associate’s Degree** in **General Studies with an emphasis in Computer Science** (and a Minor in Portuguese) from the **University of Wisconsin–Milwaukee** in **Spring 2024**.  
+
+- I’m passionate about **technical product management**, **program management**, **game development**, and **open-source projects**, especially those involving **C++** and **Unreal Engine**.  
+
+- ⚡ Fun fact: I’m currently building a **Minecraft-like clone** using **C++** and **OpenGL**! (It’s private for now, but I’ll open-source it once complete.)  
+
+- Let’s connect!  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/milesroyer/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mainmilesaroyer@gmail.com)  
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@milesroyeet)  
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/miles_royeet)
 
-
-- ⚡ Fun fact: I'm currently working on building a Minecraft-like clone using C++ and OpenGL! (Currently, it's in a private repository but will open it up when it's finished!)
 
 
 ## Programming Languages
