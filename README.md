@@ -4,7 +4,7 @@
 
 - Previously, I worked as a **Software Engineering Intern** at **Johnson Controls**, developing and maintaining **Python** and **C++** applications for the **Smart Connected Chillers** team, enhancing IoT capabilities in smart building solutions.  
 
-- Currently, I’m a **Project Assistant at the Connected Systems Institute (CSI)** at **UW–Milwaukee**, collaborating with industry partners like **Rockwell Automation** and **Microsoft** to organize hackathons, support project management initiatives, and gain hands-on experience in **technical program management**.  
+- Currently, I’m a **Junior Projevt Manager at the Connected Systems Institute (CSI)** at **UW–Milwaukee**, collaborating with industry partners like **Rockwell Automation** and **Microsoft** to organize hackathons, support project management initiatives, and gain hands-on experience in **Project management**.  
 
 - I’m deepening my expertise in **Technical Product & Program Management**, while continuing to strengthen my skills in **C++**, **performance optimization**, and **data structures**.  
 
