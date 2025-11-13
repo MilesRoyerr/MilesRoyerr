@@ -14,7 +14,6 @@
 
 - I’m passionate about **technical product management**, **program management**, **game development**, and **open-source projects**, especially those involving **C++** and **Unreal Engine**.  
 
-- ⚡ Fun fact: I’m currently building a **Minecraft-like clone** using **C++** and **OpenGL**! (It’s private for now, but I’ll open-source it once complete.)  
 
 - Let’s connect!  
 
