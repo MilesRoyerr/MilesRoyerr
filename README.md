@@ -1,17 +1,28 @@
-## Howdy! 👋 I'm Miles Royer!
+# Howdy! 👋 I'm Miles Royer!
 
-- I'm a **senior at the University of Wisconsin–Milwaukee**, pursuing a **Bachelor of Science in Information Science & Technology** and expecting to graduate in **May 2027**.
+I'm a senior at the **University of Wisconsin–Milwaukee** pursuing a **B.S. in Information Science & Technology**, graduating in **May 2027**.
 
-- Most recently, I interned at **Veolia** as a **SAP Business Analyst Intern**, supporting requirements documentation and cross-functional coordination for SAP Ariba supplier registration and procurement integration.
+### 💼 My Journey: Software Engineering → Product Management
 
-- Previously, I worked at **Northwestern Mutual** as a **Product Management Intern**, collaborating with product and technical teams on user stories, acceptance criteria, backlog refinement, and enterprise insurance technology modernization.
+My four internships have helped me build a foundation across software engineering, product management, and business analysis:
 
-- I also worked as a **Software Engineering Intern at Johnson Controls**, contributing to Python and C++ development for the Smart Connected Chillers team and helping enhance IoT capabilities in smart building solutions.
+- **Veolia — SAP Business Analyst Intern:** Supported requirements documentation and cross-functional coordination for SAP Ariba supplier registration and procurement integration.
+- **Northwestern Mutual — Product Management Intern:** Collaborated with product and technical teams on user stories, acceptance criteria, backlog refinement, and enterprise insurance technology modernization.
+- **Johnson Controls — Software Engineering Intern:** Contributed to Python and C++ development for Smart Connected Chillers, supporting IoT capabilities in smart building solutions.
+- **Generac — Computer Systems Engineering Intern:** Gained early industry experience in computer systems engineering, building the technical foundation that would shape my career.
 
-- I earned an **Associate's Degree in General Studies with an emphasis in Computer Science** from the **University of Wisconsin–Milwaukee** in **Spring 2024**.
+I started out pursuing **software engineering**, but as I gained industry experience, I became increasingly interested in **defining what technology should accomplish, understanding business needs, and coordinating teams to deliver solutions**. I made a deliberate shift toward **Product Management and Technical Program Management**, combining my technical background with requirements gathering, stakeholder collaboration, and product-focused thinking.
 
-- I'm focused on growing in **Product Management** and **Technical Program Management**, bringing together technology, business needs, and cross-functional collaboration. I also enjoy **game development**, especially projects involving **C++**, **Unity**, and **Unreal Engine**.
+### 🛠️ What I'm Interested In
 
-- Let's connect!
+- **Product Management:** Product strategy, requirements gathering, Agile methodologies, and cross-functional collaboration.
+- **Software & Game Development:** C++, C#, Python, Unity, and Unreal Engine.
+- **Technology & Business:** Translating complex technical challenges into practical solutions that create value for users and businesses.
 
-https://www.linkedin.com/in/milesroyer/
+I also hold an **Associate's Degree in General Studies with an emphasis in Computer Science** from the University of Wisconsin Milwaukee at Waukesha, earned in **Spring 2024**.
+
+### 🤝 Let's Connect!
+
+I'm always interested in connecting with people working in product management, technology, and game development.
+
+[LinkedIn](https://www.linkedin.com/in/milesroyer/)
